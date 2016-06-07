@@ -20,6 +20,8 @@
     
     NSLog(@"我改了");
     NSLog(@"我又改了");
+    
+    NSLog(@"4");
 }
 
 - (void)didReceiveMemoryWarning {
